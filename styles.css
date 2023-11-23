@@ -1,0 +1,18 @@
+.centro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+body {
+    background-image: url(fondo.webp);
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+}
+
+.texto{
+    color: white;
+    text-shadow: 5px 5px 0 black;
+}
